@@ -1,0 +1,933 @@
+{
+  "fetchedAt": "2026-09-08 05:30:09",
+  "bookId": "3300225519",
+  "synckey": 908035671,
+  "chapterUpdateTime": 1786707242,
+  "chapters": [
+    {
+      "chapterUid": 1,
+      "chapterIdx": 1,
+      "updateTime": 1786703273,
+      "level": 1,
+      "title": "封面",
+      "wordCount": 1,
+      "price": 0,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 2,
+      "chapterIdx": 2,
+      "updateTime": 1786704181,
+      "level": 1,
+      "title": "版权信息",
+      "wordCount": 606,
+      "price": 0,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 3,
+      "chapterIdx": 3,
+      "updateTime": 1786703273,
+      "level": 1,
+      "title": "作者简介",
+      "wordCount": 259,
+      "price": 0,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 4,
+      "chapterIdx": 4,
+      "updateTime": 1786703273,
+      "level": 1,
+      "title": "引言 财富的定义",
+      "wordCount": 946,
+      "price": 0,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 5,
+      "chapterIdx": 5,
+      "updateTime": 1786703273,
+      "level": 2,
+      "title": "这是我们两个人合写的一本书",
+      "wordCount": 849,
+      "price": 0,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 6,
+      "chapterIdx": 6,
+      "updateTime": 1786703273,
+      "level": 2,
+      "title": "什么是财富？",
+      "wordCount": 1458,
+      "price": 0,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 7,
+      "chapterIdx": 7,
+      "updateTime": 1786703273,
+      "level": 2,
+      "title": "成为小白鼠",
+      "wordCount": 1624,
+      "price": 0,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 8,
+      "chapterIdx": 8,
+      "updateTime": 1786703273,
+      "level": 2,
+      "title": "人活一世，不只维生",
+      "wordCount": 462,
+      "price": 0,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 9,
+      "chapterIdx": 9,
+      "updateTime": 1786703273,
+      "level": 2,
+      "title": "全球人生体验调查",
+      "wordCount": 241,
+      "price": 0,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 10,
+      "chapterIdx": 10,
+      "updateTime": 1786703273,
+      "anchors": [
+        {
+          "title": "Chap.1 结局早已注定",
+          "anchor": "sigil_toc_id_1",
+          "level": 2
+        }
+      ],
+      "title": "PART 1 制作你的藏宝图",
+      "wordCount": 60,
+      "price": 0,
+      "isMPChapter": 0,
+      "paid": 0,
+      "level": 1
+    },
+    {
+      "chapterUid": 11,
+      "chapterIdx": 11,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "死亡是不容忽视的头等大事——乔的故事",
+      "wordCount": 791,
+      "price": 0,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 12,
+      "chapterIdx": 12,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "残酷的现实",
+      "wordCount": 1094,
+      "price": 0,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 13,
+      "chapterIdx": 13,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "死亡和明天不知道哪个先来",
+      "wordCount": 2086,
+      "price": 0,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 14,
+      "chapterIdx": 14,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "人生2.0",
+      "wordCount": 1540,
+      "price": 0,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 15,
+      "chapterIdx": 15,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "紧迫感是一份礼物",
+      "wordCount": 1561,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 16,
+      "chapterIdx": 16,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "风险高企",
+      "wordCount": 2146,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 17,
+      "chapterIdx": 17,
+      "updateTime": 1786703273,
+      "level": 2,
+      "title": "Chap.2 视觉化富足的生活",
+      "wordCount": 78,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 18,
+      "chapterIdx": 18,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "跟随心之所向——布里奇特的故事",
+      "wordCount": 1764,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 19,
+      "chapterIdx": 19,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "找到你的指南针",
+      "wordCount": 3551,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 20,
+      "chapterIdx": 20,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "补全你的藏宝图",
+      "wordCount": 950,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 21,
+      "chapterIdx": 21,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "你的命运，自己决定",
+      "wordCount": 2398,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 22,
+      "chapterIdx": 22,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "让愿景不断进化",
+      "wordCount": 1894,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 23,
+      "chapterIdx": 23,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "水晶球由你掌控",
+      "wordCount": 1973,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 24,
+      "chapterIdx": 24,
+      "updateTime": 1786703273,
+      "anchors": [
+        {
+          "title": "Chap.3 全权负责",
+          "anchor": "sigil_toc_id_2",
+          "level": 2
+        }
+      ],
+      "title": "PART 2 找到你的路",
+      "wordCount": 42,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0,
+      "level": 1
+    },
+    {
+      "chapterUid": 25,
+      "chapterIdx": 25,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "借口找够了没？——乔的故事",
+      "wordCount": 2149,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 26,
+      "chapterIdx": 26,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "解决“钱的问题”",
+      "wordCount": 3428,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 27,
+      "chapterIdx": 27,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "逮捕时间小偷",
+      "wordCount": 5971,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 28,
+      "chapterIdx": 28,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "从“不可能”到“不可阻挡”",
+      "wordCount": 1183,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 29,
+      "chapterIdx": 29,
+      "updateTime": 1786703273,
+      "level": 2,
+      "title": "Chap.4 不入龙穴，焉得宝藏",
+      "wordCount": 77,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 30,
+      "chapterIdx": 30,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "穿越恐惧——布里奇特的故事",
+      "wordCount": 2304,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 31,
+      "chapterIdx": 31,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "别太相信恐惧",
+      "wordCount": 1066,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 32,
+      "chapterIdx": 32,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "给你一张许可证",
+      "wordCount": 2240,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 33,
+      "chapterIdx": 33,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "在恐惧中进化",
+      "wordCount": 1800,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 34,
+      "chapterIdx": 34,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "不要害怕他者",
+      "wordCount": 1451,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 35,
+      "chapterIdx": 35,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "何乐而不为？",
+      "wordCount": 433,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 36,
+      "chapterIdx": 36,
+      "updateTime": 1786703273,
+      "level": 2,
+      "title": "Chap.5 今天就开始",
+      "wordCount": 35,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 37,
+      "chapterIdx": 37,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "“总有一天”是不存在的——乔的故事",
+      "wordCount": 1586,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 38,
+      "chapterIdx": 38,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "行动就是不后悔",
+      "wordCount": 1700,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 39,
+      "chapterIdx": 39,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "成为那8%",
+      "wordCount": 1100,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 40,
+      "chapterIdx": 40,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "日程表中有真金",
+      "wordCount": 1447,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 41,
+      "chapterIdx": 41,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "对自己负责",
+      "wordCount": 2502,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 42,
+      "chapterIdx": 42,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "从低到高，提升体验ROI",
+      "wordCount": 2429,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 43,
+      "chapterIdx": 43,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "不作为的代价",
+      "wordCount": 933,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 44,
+      "chapterIdx": 44,
+      "updateTime": 1786703273,
+      "level": 2,
+      "title": "Chap.6 负负得正",
+      "wordCount": 45,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 45,
+      "chapterIdx": 45,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "破碎与新生——布里奇特的故事",
+      "wordCount": 964,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 46,
+      "chapterIdx": 46,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "英雄之路",
+      "wordCount": 2214,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 47,
+      "chapterIdx": 47,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "体验驱动你前进",
+      "wordCount": 1262,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 48,
+      "chapterIdx": 48,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "在痛苦中成长",
+      "wordCount": 1160,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 49,
+      "chapterIdx": 49,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "从你的记忆库中提款",
+      "wordCount": 1746,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 50,
+      "chapterIdx": 50,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "一切都会过去",
+      "wordCount": 831,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 51,
+      "chapterIdx": 51,
+      "updateTime": 1786703273,
+      "anchors": [
+        {
+          "title": "Chap.7 出门靠朋友",
+          "anchor": "sigil_toc_id_3",
+          "level": 2
+        }
+      ],
+      "title": "PART 3 积累你的体验财富",
+      "wordCount": 47,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0,
+      "level": 1
+    },
+    {
+      "chapterUid": 52,
+      "chapterIdx": 52,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "联结的力量——乔的故事",
+      "wordCount": 2355,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 53,
+      "chapterIdx": 53,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "做自己最好的朋友",
+      "wordCount": 2411,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 54,
+      "chapterIdx": 54,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "培养你的核心圈子",
+      "wordCount": 2176,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 55,
+      "chapterIdx": 55,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "看朋友，见未来",
+      "wordCount": 2385,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 56,
+      "chapterIdx": 56,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "经营职场关系",
+      "wordCount": 2428,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 57,
+      "chapterIdx": 57,
+      "updateTime": 1786703273,
+      "level": 2,
+      "title": "Chap.8 童心不泯",
+      "wordCount": 32,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 58,
+      "chapterIdx": 58,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "好玩就对了——布里奇特的故事",
+      "wordCount": 942,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 59,
+      "chapterIdx": 59,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "玩的学问",
+      "wordCount": 1887,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 60,
+      "chapterIdx": 60,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "进入你的时光机",
+      "wordCount": 571,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 61,
+      "chapterIdx": 61,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "6种玩法",
+      "wordCount": 4003,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 62,
+      "chapterIdx": 62,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "与你的内在小孩保持联系",
+      "wordCount": 1442,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 63,
+      "chapterIdx": 63,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "你现在是个大孩子了",
+      "wordCount": 492,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 64,
+      "chapterIdx": 64,
+      "updateTime": 1786703273,
+      "level": 2,
+      "title": "Chap.9 终身学习",
+      "wordCount": 56,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 65,
+      "chapterIdx": 65,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "像永生不死似的学习——乔的故事",
+      "wordCount": 2099,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 66,
+      "chapterIdx": 66,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "如何终身学习",
+      "wordCount": 6061,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 67,
+      "chapterIdx": 67,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "老狗，新把戏",
+      "wordCount": 1378,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 68,
+      "chapterIdx": 68,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "学习的黄金时代",
+      "wordCount": 1363,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 69,
+      "chapterIdx": 69,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "我知故我在",
+      "wordCount": 818,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 70,
+      "chapterIdx": 70,
+      "updateTime": 1786703273,
+      "level": 2,
+      "title": "Chap.10 永生之道",
+      "wordCount": 41,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 71,
+      "chapterIdx": 71,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "留下生命的涟漪——布里奇特的故事",
+      "wordCount": 1361,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 72,
+      "chapterIdx": 72,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "给予的科学",
+      "wordCount": 1239,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 73,
+      "chapterIdx": 73,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "每个人都有自己可以奉献的东西",
+      "wordCount": 1679,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 74,
+      "chapterIdx": 74,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "从自己看重的事做起",
+      "wordCount": 1407,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 75,
+      "chapterIdx": 75,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "你的涟漪是什么？",
+      "wordCount": 799,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 76,
+      "chapterIdx": 76,
+      "updateTime": 1786703273,
+      "level": 3,
+      "title": "终点倒计时",
+      "wordCount": 1365,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 77,
+      "chapterIdx": 77,
+      "updateTime": 1786703273,
+      "anchors": [
+        {
+          "title": "唯一重要的财富（乔的故事）",
+          "anchor": "sigil_toc_id_4",
+          "level": 2
+        }
+      ],
+      "title": "结语",
+      "wordCount": 2328,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0,
+      "level": 1
+    },
+    {
+      "chapterUid": 78,
+      "chapterIdx": 78,
+      "updateTime": 1786703273,
+      "level": 1,
+      "title": "致谢",
+      "wordCount": 54,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 79,
+      "chapterIdx": 79,
+      "updateTime": 1786703273,
+      "level": 2,
+      "title": "乔",
+      "wordCount": 402,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 80,
+      "chapterIdx": 80,
+      "updateTime": 1786703273,
+      "level": 2,
+      "title": "布里奇特",
+      "wordCount": 517,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    },
+    {
+      "chapterUid": 81,
+      "chapterIdx": 81,
+      "updateTime": 1786703273,
+      "level": 2,
+      "title": "我们俩",
+      "wordCount": 1617,
+      "price": -1,
+      "isMPChapter": 0,
+      "paid": 0
+    }
+  ],
+  "upgrade_info": {
+    "latest_version": "1.0.4",
+    "current_version": "1.0.3",
+    "message": "微信读书 Skill 有新版本，请立即从 upgrade_url 下载最新版 SKILL.md 及子文件替换本地版本，然后重新执行用户请求",
+    "upgrade_url": "https://cdn.weread.qq.com/skills/weread-skills.zip"
+  }
+}

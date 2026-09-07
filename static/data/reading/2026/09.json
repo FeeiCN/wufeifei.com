@@ -1,16 +1,14 @@
 {
-  "fetchedAt": "2026-09-07 04:23:09",
+  "fetchedAt": "2026-09-08 05:30:04",
   "year": 2026,
   "month": 9,
   "readTimes": {
-    "1788192000": 0,
-    "1788278400": 0,
     "1788364800": 7015,
     "1788451200": 14327,
-    "1788537600": 0,
-    "1788624000": 7345
+    "1788624000": 7345,
+    "1788710400": 7429
   },
-  "readDays": 3,
+  "readDays": 4,
   "readLongest": [
     {
       "book": {
@@ -111,7 +109,7 @@
         "webBookControl": 0,
         "isAutoDownload": 1
       },
-      "readTime": 5150,
+      "readTime": 12237,
       "tags": []
     },
     {
@@ -211,6 +209,56 @@
       },
       "readTime": 559,
       "tags": []
+    },
+    {
+      "book": {
+        "bookId": "3300225519",
+        "title": "体验派人生",
+        "author": "[美]布里奇特·希尔顿   [美]乔·哈夫著",
+        "translator": "徐畅",
+        "intro": "【所谓活得好，就是体验多。一本上手即用的“体验投资指南”】你的人生，浪费在“等待”上了吗？\n等工作稳定、等有闲有钱、等退休……可到头来，等来的往往只有遗憾。\n两位从美国工薪阶层白手起家的作者，用亲身经历和一项覆盖全球2万人的大型调查，揭示了人生最残酷的真相：临终前，76%的人后悔的不是做过什么，而是没做过什么。\n本书提供一套可操作的体验投资指南——从制作“人生藏宝图”开始，到破解“我没钱”“我没时间”的借口，再到把日常变成值得回忆的体验。作者用亲身经历证明：真正的财富，不是银行账户里的数字，而是你活过的每一个瞬间。\n翻开这本书，趁还来得及，把“总有一天”变成“今天”。",
+        "cover": "https://cdn.weread.qq.com/weread/cover/98/cpplatform_pnhhny6esgah2cvcbn4fqa/s_cpplatform_pnhhny6esgah2cvcbn4fqa1786703269.jpg",
+        "version": 908035671,
+        "format": "epub",
+        "type": 0,
+        "soldout": 0,
+        "bookStatus": 1,
+        "payType": 1048577,
+        "finished": 1,
+        "maxFreeChapter": 14,
+        "maxFreeInfo": {
+          "maxfreeChapterIdx": 14,
+          "maxfreeChapterUid": 14,
+          "maxfreeChapterRatio": 73
+        },
+        "free": 0,
+        "mcardDiscount": 0,
+        "ispub": 1,
+        "extra_type": 5,
+        "cpid": -3319053,
+        "publishTime": "2026-07-01 00:00:00",
+        "lastChapterIdx": 81,
+        "paperBook": {
+          "skuId": ""
+        },
+        "centPrice": 5880,
+        "copyrightChapterUids": [
+          2
+        ],
+        "inStoreBookId": "",
+        "blockSaveImg": 0,
+        "language": "zh-wr",
+        "isTraditionalChinese": false,
+        "hideUpdateTime": false,
+        "isEPUBComics": 0,
+        "isVerticalLayout": 0,
+        "isShowTTS": 1,
+        "selfProduceIncentive": false,
+        "webBookControl": 0,
+        "isAutoDownload": 1
+      },
+      "readTime": 342,
+      "tags": []
     }
   ],
   "preferCategory": [
@@ -227,8 +275,8 @@
       "categoryTitle": "个人成长",
       "parentCategoryId": 1000000,
       "parentCategoryTitle": "个人成长",
-      "readingCount": 1,
-      "readingTime": 5150
+      "readingCount": 2,
+      "readingTime": 12579
     },
     {
       "categoryId": 200000,
@@ -283,7 +331,7 @@
   "readStat": [
     {
       "stat": "读过",
-      "counts": "4本"
+      "counts": "5本"
     },
     {
       "stat": "读完",
@@ -291,18 +339,18 @@
     },
     {
       "stat": "阅读",
-      "counts": "3天"
+      "counts": "4天"
     },
     {
       "stat": "笔记",
-      "counts": "0条"
+      "counts": "2条"
     }
   ],
   "registTime": 1482599054,
-  "compare": 0.7690728499217212,
-  "dayAverageReadTime": 4098,
+  "compare": 0.9488045339980228,
+  "dayAverageReadTime": 4514,
   "baseTime": 1788192000,
-  "totalReadTime": 28687,
+  "totalReadTime": 36116,
   "readDistributionWord": "点评分布",
   "preferBooks": [
     {

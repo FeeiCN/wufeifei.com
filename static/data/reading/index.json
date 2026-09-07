@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-09-07 04:23:25",
+  "exportedAt": "2026-09-08 05:30:13",
   "source": "static/data/reading/YYYY/MM.json aggregated",
   "activeYears": [
     "2026",
@@ -12,10 +12,10 @@
   ],
   "dateRange": {
     "start": "2018-01-24",
-    "end": "2026-09-05"
+    "end": "2026-09-06"
   },
   "totals": {
-    "activeDays": 1073,
-    "totalReadSeconds": 3932129
+    "activeDays": 1074,
+    "totalReadSeconds": 3939558
   }
 }

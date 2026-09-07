@@ -1,6 +1,6 @@
 {
   "year": "2026",
-  "exportedAt": "2026-09-07 04:23:25",
+  "exportedAt": "2026-09-08 05:30:13",
   "daily": {
     "2026-01-01": {
       "seconds": 7881,
@@ -637,10 +637,14 @@
     "2026-09-05": {
       "seconds": 7345,
       "books": []
+    },
+    "2026-09-06": {
+      "seconds": 7429,
+      "books": []
     }
   },
   "yearTotals": {
-    "activeDays": 159,
-    "totalReadSeconds": 686506
+    "activeDays": 160,
+    "totalReadSeconds": 693935
   }
 }
