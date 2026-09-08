@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08 05:30:06",
+  "fetchedAt": "2026-09-09 05:08:48",
   "mp": {
     "show": 1,
     "book": {
@@ -6726,7 +6726,7 @@
       "finishReading": 0,
       "readUpdateTime": 0,
       "secret": 0,
-      "updateTime": 1785132810
+      "updateTime": 1788862508
     },
     {
       "bookId": "33514727",
@@ -8113,7 +8113,7 @@
       "updateTime": 1786707242,
       "cover": "https://cdn.weread.qq.com/weread/cover/98/cpplatform_pnhhny6esgah2cvcbn4fqa/t6_cpplatform_pnhhny6esgah2cvcbn4fqa1786703269.jpg",
       "finishReading": 0,
-      "readUpdateTime": 1788787803,
+      "readUpdateTime": 1788842852,
       "secret": 0,
       "category": "个人成长-励志成长"
     },

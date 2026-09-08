@@ -1,8 +1,8 @@
 {
-  "exportedAt": "2026-09-08 05:30:15",
+  "exportedAt": "2026-09-09 05:08:58",
   "totals": {
-    "activeDays": 1074,
-    "totalReadSeconds": 3939558,
+    "activeDays": 1075,
+    "totalReadSeconds": 3940737,
     "booksInLibrary": 348,
     "booksFinished": 118,
     "notesTotal": 3184,
@@ -12,8 +12,8 @@
   "yearly": [
     {
       "year": "2026",
-      "activeDays": 160,
-      "totalReadSeconds": 693935,
+      "activeDays": 161,
+      "totalReadSeconds": 695114,
       "booksRead": 65,
       "booksFinished": 28,
       "notesCount": 783,
@@ -26,7 +26,7 @@
         114781,
         47840,
         71813,
-        36116,
+        37295,
         0,
         0,
         0
@@ -7532,6 +7532,6 @@
   ],
   "dateRange": {
     "start": "2018-01-24",
-    "end": "2026-09-06"
+    "end": "2026-09-07"
   }
 }
